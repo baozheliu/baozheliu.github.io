@@ -5,9 +5,11 @@ You can use the [editor on GitHub](https://github.com/baozheliu/baozheliu.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 短短沙雕
-辣鸡
-嘻嘻☺️
-符符情深留不住
+辣鸡 <br/>
+嘻嘻☺️  <br/>
+符符情深留不住 <br/>
+要不要做核核<br/>
+阿短什么时候去革命，我要吃鸭血<br/>
 
 
 
